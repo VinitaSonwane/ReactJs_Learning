@@ -1,9 +1,13 @@
 
+import Chai from "./Chai";
 
 function App() {
   return (
-    <h1>Chai aur react | Vinita  </h1>
- );
+    <>
+    <Chai/>
+    
+    </>
+  );
 }
 
 export default App;
